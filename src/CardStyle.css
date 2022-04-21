@@ -1,0 +1,51 @@
+.main-title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-weight: bolder;
+}
+.anniversary-card{
+    width: 14rem;
+    border-radius: 10px;
+    margin:10px;
+    font-size: 20px;
+}
+
+.diary-card{
+    width: 14rem;
+    border-radius: 10px;
+    margin:10px;
+}
+
+.main-page-btn{
+    margin-top:10px;
+}
+
+.pop-title{
+    font-size:22px;
+    margin:10px;
+    text-align: center;
+}
+
+.pop-content{
+    font-size:18px;
+    margin:10px;
+}
+
+.cards-header{
+    font-weight: bold;
+    font-size:20px;
+}
+
+.cards-sub{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.anniv-title{
+    font-size: 26px;
+}
+
+.diary-title{
+    font-size:28px;
+}

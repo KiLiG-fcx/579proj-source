@@ -1,0 +1,54 @@
+.anni-container, .diary-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin-left:3rem;
+    margin-right:3rem
+}
+
+.addBtn{
+    margin:10px;
+}
+
+.delbtn{
+    display:block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-title{
+    text-align: center;
+}
+
+.form-control{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.main-btn{
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    width: 50% !important;
+    margin:auto;
+  }
+
+.form-control {
+margin-top:0 !important;
+margin-bottom:0 !important;
+}
+
+.category-title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.anni-container, .diary-container{
+    border:2px solid #434343;
+    border-radius: 10px;
+}
